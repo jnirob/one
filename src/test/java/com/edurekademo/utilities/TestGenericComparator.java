@@ -16,7 +16,7 @@ import org.junit.*;
  */
 
 @SuppressWarnings({"rawtypes","unchecked"})
-//test
+//testtt
 public class TestGenericComparator
     extends TestCase
 {
